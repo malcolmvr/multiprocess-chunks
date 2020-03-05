@@ -1,0 +1,2 @@
+from multiprocess_chunks.methods import map_list_as_chunks
+from multiprocess_chunks.methods import map_list_in_chunks
